@@ -31,11 +31,12 @@ MySql
 Home Page
 <img width="1918" height="879" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/0b55b474-df49-439c-897c-56a522bc0120" />
 Edit Page
-<img width="1920" height="876" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/4bf56d79-0364-44e6-bde1-f2fe34c26953" />
-Stock Page
+
+Stock Products Page
 <img width="1920" height="889" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/0ee32cdb-9263-4f14-a8bb-5ca53a628829" />
 Product add
-<img width="1920" height="889" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/1ca9c715-3b2b-43a9-88b2-3e8803f3067f" />
+<img width="1920" height="882" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/360d95f3-bf63-46cf-af44-1c339f72c112" />
+
 
 Cart Items
 <img width="1920" height="882" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/d5359f32-5573-4250-adb5-04c31ef5b5a9" />
