@@ -27,12 +27,15 @@ Servlet
 JSP
 Database:
 MySql
-<img width="1918" height="879" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/0b55b474-df49-439c-897c-56a522bc0120" />
 
+Home Page
+<img width="1918" height="879" alt="Screenshot (406)" src="https://github.com/user-attachments/assets/0b55b474-df49-439c-897c-56a522bc0120" />
+Edit Page
 <img width="1920" height="876" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/4bf56d79-0364-44e6-bde1-f2fe34c26953" />
+Stock Page
 <img width="1920" height="882" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/d5359f32-5573-4250-adb5-04c31ef5b5a9" />
 
-<img width="1920" height="876" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/1e7ccf74-2eff-4a64-b4e0-eeee2bf06f58" />
+
 
 
 
