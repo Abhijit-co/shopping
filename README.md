@@ -27,3 +27,6 @@ Servlet
 JSP
 Database:
 MySql
+<img width="1920" height="876" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/4bf56d79-0364-44e6-bde1-f2fe34c26953" />
+
+
